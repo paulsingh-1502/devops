@@ -1,3 +1,3 @@
 # devops
 hello 
-learning devopd
+learning devops
